@@ -18,6 +18,7 @@ public class Random {
 	        for (int i=0; i<rand.length; i++) {
 	        	
 	        	rand[i] = list.get(i);
+	        	
 	            //System.out.println(rand[i]);
 	        }
 	        return rand;
